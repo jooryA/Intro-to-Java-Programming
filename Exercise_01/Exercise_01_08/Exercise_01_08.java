@@ -6,6 +6,7 @@ of a circle that has a radius of 5.5 using the following formula:
 */
 public class Exercise_01_08 {
 	public static void main(String[] args) {
+		System.out.println("the area and perimeter of a circule =");
 		System.out.println("Perimeter = ");
 		System.out.println(2 * 5.5 * 3.14159);
 		System.out.println("Area = ");
